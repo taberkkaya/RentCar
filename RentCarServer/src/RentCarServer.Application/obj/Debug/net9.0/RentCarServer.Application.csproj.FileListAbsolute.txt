@@ -1,0 +1,12 @@
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\bin\Debug\net9.0\RentCarServer.Application.deps.json
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\bin\Debug\net9.0\RentCarServer.Application.dll
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\bin\Debug\net9.0\RentCarServer.Application.pdb
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.csproj.AssemblyReference.cache
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.AssemblyInfoInputs.cache
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.AssemblyInfo.cs
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.csproj.CoreCompileInputs.cache
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.dll
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\refint\RentCarServer.Application.dll
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.pdb
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\ref\RentCarServer.Application.dll
