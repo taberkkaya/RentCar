@@ -183,3 +183,4 @@ C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.WebApi\bin\Debug\ne
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.WebApi\obj\Debug\net9.0\RentCarServer.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.WebApi\bin\Debug\net9.0\GenericRepository.dll
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.WebApi\obj\Debug\net9.0\RentCarServer.WebApi.sourcelink.json
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -9,6 +9,8 @@ internal class UserContext(
     public Guid GetUserId()
     {
         var httpContext = httpContextAccessor.HttpContext;
+        if(httpContext is null)
+            throw new ArgumentNullException("HttpContext bulunamadı.");
         var claims = httpContext.User.Claims;
         string? userId = claims.FirstOrDefault(i => i.Type == ClaimTypes.NameIdentifier)?.Value;
         if (userId is null)

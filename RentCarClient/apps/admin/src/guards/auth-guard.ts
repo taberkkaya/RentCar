@@ -3,7 +3,6 @@ import { CanActivateChildFn, Router } from '@angular/router';
 import { jwtDecode } from 'jwt-decode';
 
 export const authGuard: CanActivateChildFn = (childRoute, state) => {
-  debugger
   const token = localStorage.getItem('response');
   const router = inject(Router);
   if (!token) {
