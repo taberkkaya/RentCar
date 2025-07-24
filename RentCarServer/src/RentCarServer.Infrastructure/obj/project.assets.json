@@ -1773,6 +1773,18 @@
           }
         }
       },
+      "TS.EntityFrameworkCore.GenericRepository/9.0.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0"
+        },
+        "compile": {
+          "lib/net9.0/GenericRepository.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/GenericRepository.dll": {}
+        }
+      },
       "TS.MediatR/9.0.6": {
         "type": "package",
         "dependencies": {
@@ -1801,6 +1813,7 @@
           "FluentValidation": "12.0.0",
           "FluentValidation.DependencyInjectionExtensions": "12.0.0",
           "Mapster": "7.4.0",
+          "RentCarServer.Domain": "1.0.0",
           "TS.MediatR": "9.0.6",
           "TS.Result": "9.0.1"
         },
@@ -1814,6 +1827,9 @@
       "RentCarServer.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "TS.EntityFrameworkCore.GenericRepository": "9.0.4"
+        },
         "compile": {
           "bin/placeholder/RentCarServer.Domain.dll": {}
         },
@@ -5113,6 +5129,20 @@
         "system.windows.extensions.6.0.0.nupkg.sha512",
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "TS.EntityFrameworkCore.GenericRepository/9.0.4": {
+      "sha512": "q0iXaUNx2q+dX5iIudAufUxqN9wZtGhhJqH/9FIIEFkMtA39scEqi15vJuPVZ22o7L5GoP0Znn84llWnwznphQ==",
+      "type": "package",
+      "path": "ts.entityframeworkcore.genericrepository/9.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net9.0/GenericRepository.dll",
+        "logo.jpg",
+        "ts.entityframeworkcore.genericrepository.9.0.4.nupkg.sha512",
+        "ts.entityframeworkcore.genericrepository.nuspec"
       ]
     },
     "TS.MediatR/9.0.6": {

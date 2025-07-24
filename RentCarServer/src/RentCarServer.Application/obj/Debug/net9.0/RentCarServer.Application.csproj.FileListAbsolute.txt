@@ -10,3 +10,7 @@ C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Deb
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\refint\RentCarServer.Application.dll
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.pdb
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\ref\RentCarServer.Application.dll
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\bin\Debug\net9.0\RentCarServer.Domain.dll
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\bin\Debug\net9.0\RentCarServer.Domain.pdb
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarServer.Application.sourcelink.json
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Application\obj\Debug\net9.0\RentCarS.290BE89E.Up2Date

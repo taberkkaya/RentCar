@@ -9,3 +9,5 @@ C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\ne
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\refint\RentCarServer.Domain.dll
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.pdb
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\ref\RentCarServer.Domain.dll
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.csproj.AssemblyReference.cache
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.sourcelink.json

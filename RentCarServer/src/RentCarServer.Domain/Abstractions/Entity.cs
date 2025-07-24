@@ -8,8 +8,8 @@ public abstract class Entity
         IsActive = true;
     }
 
-    public IdentityId Id { get; private set; }
-    public bool IsActive { get; private set; }
+    public IdentityId Id { get; private  set; }
+    public bool IsActive { get; private  set; }
 
     public DateTimeOffset CreatedAt { get; private set; }
     public IdentityId CreatedBy { get; private set; } = default!;

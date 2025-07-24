@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using GenericRepository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,6 +18,8 @@ public static class ServiceRegistrar
             var con = configuration.GetConnectionString("SqlServer");
             opt.UseSqlServer(con);
         });
+
+        services.AddScoped<IUnitOfWork>(srv => srv.GetRequiredService<ApplicationDbContext>());
 
         services.Scan(action => action
         .FromAssemblies(typeof(ServiceRegistrar).Assembly)

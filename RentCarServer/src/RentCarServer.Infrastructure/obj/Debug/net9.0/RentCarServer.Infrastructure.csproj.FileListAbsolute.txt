@@ -17,3 +17,4 @@ C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Infrastructure\obj\
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\RentCarServer.Infrastructure.pdb
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\RentCarServer.Infrastructure.genruntimeconfig.cache
 C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\ref\RentCarServer.Infrastructure.dll
+C:\PersonalWorkspace\RentCar\RentCarServer\src\RentCarServer.Infrastructure\obj\Debug\net9.0\RentCarServer.Infrastructure.sourcelink.json

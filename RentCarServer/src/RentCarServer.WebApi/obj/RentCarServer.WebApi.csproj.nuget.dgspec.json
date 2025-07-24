@@ -31,7 +31,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.Domain\\RentCarServer.Domain.csproj": {
+                "projectPath": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.Domain\\RentCarServer.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -138,6 +142,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "TS.EntityFrameworkCore.GenericRepository": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

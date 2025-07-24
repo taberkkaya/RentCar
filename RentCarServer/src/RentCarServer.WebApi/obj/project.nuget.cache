@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gvR98NXdaaY=",
+  "dgSpecHash": "cbGeehGkipM=",
   "success": true,
   "projectFilePath": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.WebApi\\RentCarServer.WebApi.csproj",
   "expectedPackageFiles": [
@@ -103,6 +103,7 @@
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\KayaAtaberk\\.nuget\\packages\\ts.entityframeworkcore.genericrepository\\9.0.4\\ts.entityframeworkcore.genericrepository.9.0.4.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\ts.mediatr\\9.0.6\\ts.mediatr.9.0.6.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\ts.result\\9.0.1\\ts.result.9.0.1.nupkg.sha512"
   ],
