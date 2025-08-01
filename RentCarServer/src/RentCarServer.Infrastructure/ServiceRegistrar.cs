@@ -13,6 +13,10 @@ public static class ServiceRegistrar
         IConfiguration configuration)
     {
         services.Configure<JwtOptions>(configuration.GetSection("Jwt"));
+        services.ConfigureOptions<JwtSetupOptions>();
+
+        services.AddAuthentication().AddJwtBearer();
+        services.AddAuthorization();
 
         services.AddHttpContextAccessor();
 

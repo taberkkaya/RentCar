@@ -50,7 +50,9 @@ app.UseExceptionHandler();
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers()
-    .RequireRateLimiting("fixed");
+    .RequireRateLimiting("fixed")
+    .RequireAuthorization();
 app.MapAuth();
+app.MapGet("/",() => "Rent Car").RequireAuthorization();
 //await app.CreateFirstUser();
 app.Run();
