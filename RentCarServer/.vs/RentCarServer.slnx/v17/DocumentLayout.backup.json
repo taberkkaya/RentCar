@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6B445415-4145-4B90-A160-C9897105AF7E}|src\\RentCarServer.WebApi\\RentCarServer.WebApi.csproj|c:\\personalworkspace\\rentcar\\rentcarserver\\src\\rentcarserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B445415-4145-4B90-A160-C9897105AF7E}|src\\RentCarServer.WebApi\\RentCarServer.WebApi.csproj|solutionrelative:src\\rentcarserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B445415-4145-4B90-A160-C9897105AF7E}|src\\RentCarServer.WebApi\\RentCarServer.WebApi.csproj|c:\\personalworkspace\\rentcar\\rentcarserver\\src\\rentcarserver.webapi\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B445415-4145-4B90-A160-C9897105AF7E}|src\\RentCarServer.WebApi\\RentCarServer.WebApi.csproj|solutionrelative:src\\rentcarserver.webapi\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.WebApi\\Program.cs",
-              "ToolTip": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.WebApi\\Program.cs",
-              "RelativeToolTip": "src\\RentCarServer.WebApi\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:00:15.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthModule.cs",
-              "DocumentMoniker": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.WebApi\\Modules\\AuthModule.cs",
-              "RelativeDocumentMoniker": "src\\RentCarServer.WebApi\\Modules\\AuthModule.cs",
-              "ToolTip": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.WebApi\\Modules\\AuthModule.cs",
-              "RelativeToolTip": "src\\RentCarServer.WebApi\\Modules\\AuthModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:59:22.417Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -759,7 +759,7 @@ body {
 }
 
 /* ===== DARK MODE SUPPORT ===== */
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     .content-area {
         background: #1a1a1a;
         color: #e0e0e0;
@@ -778,7 +778,7 @@ body {
     .breadcrumb-item.active {
         color: #e0e0e0;
     }
-}
+} */
 
 /* ===== ANIMATIONS ===== */
 @keyframes slideInRight {
@@ -6756,3 +6756,6 @@ body {
     animation: fadeInPhoto 0.5s ease-out;
 }
 
+a{
+    cursor: pointer;
+}
