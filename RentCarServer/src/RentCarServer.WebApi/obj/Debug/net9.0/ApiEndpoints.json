@@ -9,9 +9,31 @@
     "Parameters": [],
     "ReturnTypes": [
       {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RentCarServer.WebApi.Modules.AuthModule\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuth\u003Eb__0_1",
+    "RelativePath": "auth/forgot-password/{email}",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
         "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TS.Result.Result\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
-          "text/plain"
+          "application/json"
         ],
         "StatusCode": 200
       }
@@ -28,6 +50,30 @@
       {
         "Name": "request",
         "Type": "RentCarServer.Application.Auth.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TS.Result.Result\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RentCarServer.WebApi.Modules.AuthModule\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAuth\u003Eb__0_2",
+    "RelativePath": "auth/reset-password",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "RentCarServer.Application.Auth.ResetPasswordCommand",
         "IsRequired": true
       }
     ],

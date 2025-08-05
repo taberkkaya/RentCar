@@ -92,6 +92,38 @@ namespace RentCarServer.Infrastructure.Migrations
                                 .HasForeignKey("UserId");
                         });
 
+                    b.OwnsOne("RentCarServer.Domain.Users.ValueObjects.ForgotPasswordDate", "ForgotPasswordDate", b1 =>
+                        {
+                            b1.Property<Guid>("UserId")
+                                .HasColumnType("uniqueidentifier");
+
+                            b1.Property<DateTimeOffset>("Value")
+                                .HasColumnType("datetimeoffset");
+
+                            b1.HasKey("UserId");
+
+                            b1.ToTable("Users");
+
+                            b1.WithOwner()
+                                .HasForeignKey("UserId");
+                        });
+
+                    b.OwnsOne("RentCarServer.Domain.Users.ValueObjects.ForgotPasswordId", "ForgotPasswordId", b1 =>
+                        {
+                            b1.Property<Guid>("UserId")
+                                .HasColumnType("uniqueidentifier");
+
+                            b1.Property<Guid>("Value")
+                                .HasColumnType("uniqueidentifier");
+
+                            b1.HasKey("UserId");
+
+                            b1.ToTable("Users");
+
+                            b1.WithOwner()
+                                .HasForeignKey("UserId");
+                        });
+
                     b.OwnsOne("RentCarServer.Domain.Users.ValueObjects.FullName", "FullName", b1 =>
                         {
                             b1.Property<Guid>("UserId")
@@ -100,6 +132,22 @@ namespace RentCarServer.Infrastructure.Migrations
                             b1.Property<string>("Value")
                                 .IsRequired()
                                 .HasColumnType("varchar(MAX)");
+
+                            b1.HasKey("UserId");
+
+                            b1.ToTable("Users");
+
+                            b1.WithOwner()
+                                .HasForeignKey("UserId");
+                        });
+
+                    b.OwnsOne("RentCarServer.Domain.Users.ValueObjects.IsForgotPasswordCompleted", "IsForgotPasswordCompleted", b1 =>
+                        {
+                            b1.Property<Guid>("UserId")
+                                .HasColumnType("uniqueidentifier");
+
+                            b1.Property<bool>("Value")
+                                .HasColumnType("bit");
 
                             b1.HasKey("UserId");
 
@@ -170,7 +218,14 @@ namespace RentCarServer.Infrastructure.Migrations
                     b.Navigation("FirstName")
                         .IsRequired();
 
+                    b.Navigation("ForgotPasswordDate");
+
+                    b.Navigation("ForgotPasswordId");
+
                     b.Navigation("FullName")
+                        .IsRequired();
+
+                    b.Navigation("IsForgotPasswordCompleted")
                         .IsRequired();
 
                     b.Navigation("LastName")

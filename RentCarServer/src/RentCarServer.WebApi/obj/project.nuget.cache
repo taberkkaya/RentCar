@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "opcD5Tyn1lg=",
+  "dgSpecHash": "6jlW9e8yl0A=",
   "success": true,
   "projectFilePath": "C:\\PersonalWorkspace\\RentCar\\RentCarServer\\src\\RentCarServer.WebApi\\RentCarServer.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\KayaAtaberk\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\KayaAtaberk\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.0.0\\fluentvalidation.dependencyinjectionextensions.12.0.0.nupkg.sha512",
     "C:\\Users\\KayaAtaberk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
