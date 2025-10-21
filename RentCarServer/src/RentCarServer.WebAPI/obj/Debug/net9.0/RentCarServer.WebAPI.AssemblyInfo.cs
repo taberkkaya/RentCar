@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentCarServer.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0c31933de4d0ed637f9899d633716873bfaa80b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a1cb4fbaee0f89e8831953a126e47bd599cdcaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentCarServer.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentCarServer.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
