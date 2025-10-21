@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectCollection\\RentCar\\RentCarServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3467C4B4-D940-41B0-9E00-69FE29775062}|src\\RentCarServer.Infrastructure\\RentCarServer.Infrastructure.csproj|c:\\projectcollection\\rentcar\\rentcarserver\\src\\rentcarserver.infrastructure\\migrations\\20251021072520_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3467C4B4-D940-41B0-9E00-69FE29775062}|src\\RentCarServer.Infrastructure\\RentCarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\migrations\\20251021072520_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3467C4B4-D940-41B0-9E00-69FE29775062}|src\\RentCarServer.Infrastructure\\RentCarServer.Infrastructure.csproj|c:\\projectcollection\\rentcar\\rentcarserver\\src\\rentcarserver.infrastructure\\services\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3467C4B4-D940-41B0-9E00-69FE29775062}|src\\RentCarServer.Infrastructure\\RentCarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\services\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3467C4B4-D940-41B0-9E00-69FE29775062}|src\\RentCarServer.Infrastructure\\RentCarServer.Infrastructure.csproj|c:\\projectcollection\\rentcar\\rentcarserver\\src\\rentcarserver.infrastructure\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3467C4B4-D940-41B0-9E00-69FE29775062}|src\\RentCarServer.Infrastructure\\RentCarServer.Infrastructure.csproj|solutionrelative:src\\rentcarserver.infrastructure\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FEC9A-BDC3-418E-B419-9ED2594BEDA3}|src\\RentCarServer.WebAPI\\RentCarServer.WebAPI.csproj|c:\\projectcollection\\rentcar\\rentcarserver\\src\\rentcarserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604FEC9A-BDC3-418E-B419-9ED2594BEDA3}|src\\RentCarServer.WebAPI\\RentCarServer.WebAPI.csproj|solutionrelative:src\\rentcarserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251021072520_Initial-Create.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251021072520_Initial-Create.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Migrations\\20251021072520_Initial-Create.cs",
+              "ToolTip": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.Infrastructure\\Migrations\\20251021072520_Initial-Create.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Migrations\\20251021072520_Initial-Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:25:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "ToolTip": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\Services\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:25:10.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistrar.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "ToolTip": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "RelativeToolTip": "src\\RentCarServer.Infrastructure\\ServiceRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:24:01.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RentCarServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\ProjectCollection\\RentCar\\RentCarServer\\src\\RentCarServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\RentCarServer.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:23:43.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

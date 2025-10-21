@@ -1,0 +1,12 @@
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\bin\Debug\net9.0\RentCarServer.Domain.deps.json
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\bin\Debug\net9.0\RentCarServer.Domain.dll
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\bin\Debug\net9.0\RentCarServer.Domain.pdb
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.AssemblyInfoInputs.cache
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.AssemblyInfo.cs
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.csproj.CoreCompileInputs.cache
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.sourcelink.json
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.dll
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\refint\RentCarServer.Domain.dll
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\RentCarServer.Domain.pdb
+C:\ProjectCollection\RentCar\RentCarServer\src\RentCarServer.Domain\obj\Debug\net9.0\ref\RentCarServer.Domain.dll
